@@ -14,6 +14,8 @@ Udacity Project 3: Front End Web Development Nanodegree
 ---------------------------
 - Download or fork the application from [here](https://github.com/jszeina/frontend-nanodegree-arcade-game)
 - Select ```index.html``` to start the app
+- live version DEMO  [here](https://jszeina.github.io/frontend-nanodegree-arcade-game/)
+
 
 
 
