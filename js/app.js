@@ -1,7 +1,7 @@
 // Whole-script strict mode syntax
 'use strict';
 // Grid constants
-var GRID_Y = 83;
+var GRID_Y = 93;
 var GRID_X = 101;
 var GRID_Y_TOP_EMPTY_SPACE = 50;
 var GRID_Y_BOTTOM_EMPTY_SPACE = 20;
